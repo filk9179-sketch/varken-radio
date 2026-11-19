@@ -12,8 +12,10 @@
   const state = { tracks:[],current:-1,featured:-1,site:{name:'VΛRKËN RADIO',artist:'VΛRKËN'},shuffle:false,repeat:'all',sheet:false,lastFocus:null };
   const audio = el.audio;
   const yearsMin = Date.UTC(2015,0,1), yearsMax=Date.now()+2*86400000;
+  // Fin de l'import initial des 95 morceaux : les prochains ajouts passent en tete.
+  const initialImportEnd = Date.parse('2026-11-19T18:04:21Z');
   const elapsed = seconds => {const n=Math.floor(Math.max(0,Number(seconds)||0));return `${Math.floor(n/60)}:${String(n%60).padStart(2,'0')}`};
-  const number = n => String(n+1).padStart(2,'0');
+  const number = n => String(state.tracks.length - n).padStart(2,'0');
   const clean = v => String(v ?? '').replace(/\s+/g,' ').trim();
   function isPlaceholder(t){return !t || /^(?:tiktok\s*(?:video)?(?:\s*#?\d+)?|original\s*(?:audio|sound)|sans titre|untitled|video|vidéo|publication du \d{2}\/\d{2}\/\d{4}|\d{10,22})$/i.test(t)}
   function displayTitle(track, pos){const t=clean(track.title);return isPlaceholder(t)?`Pièce ${number(pos)}`:t}
@@ -28,6 +30,8 @@
   }
   function tiktokId(url){const match=clean(url).match(/(?:tiktok\.com\/[^\s]*?\/video\/|\/video\/)(\d{17,21})(?:\D|$)/i);return match?.[1]||''}
   function chronology(t,manifest){
+    const newlyAdded=dateMs(t.added_at);
+    if(newlyAdded && newlyAdded>initialImportEnd)return {sort:newlyAdded,precision:true};
     const known=manifest?.items?.[String(t.id)];
     const published=typeof known==='number'?known:(typeof known==='object'?Number(known.timestamp):NaN);
     if(Number.isFinite(published)&&published>0)return {sort:published*1000,precision:true};
@@ -194,7 +198,7 @@
         return {...track,_origin:i,_sort:date.sort,_precision:date.precision};
       }).sort((a,b)=>b._sort-a._sort || a._origin-b._origin);
       el.collectionCount.textContent=String(state.tracks.length).padStart(2,'0');
-      el.collectionBottom.textContent=unresolved?`Classement chronologique estimé pour ${unresolved} morceau(x) sans date de publication vérifiable.`:'De la première à la dernière publication.';
+      el.collectionBottom.textContent=unresolved?`Classement chronologique estimé pour ${unresolved} morceau(x) sans date de publication vérifiable.`:'Du dernier ajout aux premières publications.';
       if(state.tracks.length){
         state.featured=0;
         const feat=state.tracks[state.featured];el.featureNumber.textContent=number(state.featured)+' / '+String(state.tracks.length).padStart(2,'0');
