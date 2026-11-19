@@ -1,0 +1,866 @@
+{
+  "site": {
+    "name": "VΛRKËN RADIO",
+    "artist": "VΛRKËN",
+    "tiktok": "varken_o",
+    "tagline": "Collection musicale indépendante",
+    "description": "Écouter les créations de VΛRKËN."
+  },
+  "tracks": [
+    {
+      "id": "51f248503cc8fb9b",
+      "title": "TikTok video",
+      "artist": "Mon univers musical",
+      "duration": 189,
+      "file": "audio/51f248503cc8fb9b.mp3",
+      "cover": "covers/51f248503cc8fb9b.jpg",
+      "added_at": "2026-11-19T18:04:20.497239+00:00"
+    },
+    {
+      "id": "e70b625e63f2a3ed",
+      "title": "TikTok video",
+      "artist": "Mon univers musical",
+      "duration": 185,
+      "file": "audio/e70b625e63f2a3ed.mp3",
+      "cover": "covers/e70b625e63f2a3ed.jpg",
+      "added_at": "2026-11-19T18:03:53.227154+00:00"
+    },
+    {
+      "id": "df82af6d97d513b1",
+      "title": "TikTok video",
+      "artist": "Mon univers musical",
+      "duration": 167,
+      "file": "audio/df82af6d97d513b1.mp3",
+      "cover": "covers/df82af6d97d513b1.jpg",
+      "added_at": "2026-11-19T18:03:40.542374+00:00"
+    },
+    {
+      "id": "37587cf38464c343",
+      "title": "TikTok video",
+      "artist": "Mon univers musical",
+      "duration": 151,
+      "file": "audio/37587cf38464c343.mp3",
+      "cover": "covers/37587cf38464c343.jpg",
+      "added_at": "2026-11-19T18:03:21.896358+00:00"
+    },
+    {
+      "id": "f5f933adb0ba9c64",
+      "title": "TikTok video",
+      "artist": "Mon univers musical",
+      "duration": 175,
+      "file": "audio/f5f933adb0ba9c64.mp3",
+      "cover": "covers/f5f933adb0ba9c64.jpg",
+      "added_at": "2026-11-19T18:02:27.463222+00:00"
+    },
+    {
+      "id": "8a79dafa4f5903e2",
+      "title": "TikTok video",
+      "artist": "Mon univers musical",
+      "duration": 185,
+      "file": "audio/8a79dafa4f5903e2.mp3",
+      "cover": "covers/8a79dafa4f5903e2.jpg",
+      "added_at": "2026-11-19T18:02:13.695193+00:00"
+    },
+    {
+      "id": "6aa65d183bd41b03",
+      "title": "TikTok video",
+      "artist": "Mon univers musical",
+      "duration": 183,
+      "file": "audio/6aa65d183bd41b03.mp3",
+      "cover": "covers/6aa65d183bd41b03.jpg",
+      "added_at": "2026-11-19T18:01:45.626013+00:00"
+    },
+    {
+      "id": "8f81cd714a00f977",
+      "title": "TikTok video",
+      "artist": "Mon univers musical",
+      "duration": 205,
+      "file": "audio/8f81cd714a00f977.mp3",
+      "cover": "covers/8f81cd714a00f977.jpg",
+      "added_at": "2026-11-19T18:01:30.278749+00:00"
+    },
+    {
+      "id": "a69fca8449b6b533",
+      "title": "TikTok video",
+      "artist": "Mon univers musical",
+      "duration": 153,
+      "file": "audio/a69fca8449b6b533.mp3",
+      "cover": "covers/a69fca8449b6b533.jpg",
+      "added_at": "2026-11-19T18:01:14.861342+00:00"
+    },
+    {
+      "id": "17b9f051bd28c024",
+      "title": "TikTok video",
+      "artist": "Mon univers musical",
+      "duration": 205,
+      "file": "audio/17b9f051bd28c024.mp3",
+      "cover": "covers/17b9f051bd28c024.jpg",
+      "added_at": "2026-11-19T18:01:00.856757+00:00"
+    },
+    {
+      "id": "2e8fec9c5dc0cd54",
+      "title": "On parle souvent des héros... mais rarement de celles qui portent le monde en silence. À toutes les",
+      "artist": "Mon univers musical",
+      "duration": 183,
+      "file": "audio/2e8fec9c5dc0cd54.mp3",
+      "cover": "covers/2e8fec9c5dc0cd54.jpg",
+      "added_at": "2026-11-19T18:00:46.232684+00:00"
+    },
+    {
+      "id": "76a23052ba5164d9",
+      "title": "Il existe une fatigue que le sommeil ne répare pas. Celle qui s'installe quand le corps est immobile",
+      "artist": "Mon univers musical",
+      "duration": 157,
+      "file": "audio/76a23052ba5164d9.mp3",
+      "cover": "covers/76a23052ba5164d9.jpg",
+      "added_at": "2026-11-19T18:00:29.802962+00:00"
+    },
+    {
+      "id": "2e33b2873b7e788b",
+      "title": "TikTok video",
+      "artist": "Mon univers musical",
+      "duration": 178,
+      "file": "audio/2e33b2873b7e788b.mp3",
+      "cover": "covers/2e33b2873b7e788b.jpg",
+      "added_at": "2026-11-19T17:59:54.792797+00:00"
+    },
+    {
+      "id": "eda7873509832298",
+      "title": "TikTok video",
+      "artist": "Mon univers musical",
+      "duration": 195,
+      "file": "audio/eda7873509832298.mp3",
+      "cover": "covers/eda7873509832298.jpg",
+      "added_at": "2026-11-19T17:59:26.220077+00:00"
+    },
+    {
+      "id": "d9dfc222869d2924",
+      "title": "Il existe des blessures qui ne se voient pas. Des silences que chacun porte à sa manière, des combat",
+      "artist": "Mon univers musical",
+      "duration": 176,
+      "file": "audio/d9dfc222869d2924.mp3",
+      "cover": "covers/d9dfc222869d2924.jpg",
+      "added_at": "2026-11-19T17:59:03.930996+00:00"
+    },
+    {
+      "id": "9196e907914be1b3",
+      "title": "TikTok video",
+      "artist": "Mon univers musical",
+      "duration": 236,
+      "file": "audio/9196e907914be1b3.mp3",
+      "cover": "covers/9196e907914be1b3.jpg",
+      "added_at": "2026-11-19T17:58:41.174917+00:00"
+    },
+    {
+      "id": "ed946ced2071f544",
+      "title": "TikTok video",
+      "artist": "Mon univers musical",
+      "duration": 164,
+      "file": "audio/ed946ced2071f544.mp3",
+      "cover": "covers/ed946ced2071f544.jpg",
+      "added_at": "2026-11-19T17:58:26.684714+00:00"
+    },
+    {
+      "id": "7c12153ad822f879",
+      "title": "J'ai voulu parler de celles et ceux qui ne sont plus là, sans parler de la mort. De ces personnes qu",
+      "artist": "Mon univers musical",
+      "duration": 233,
+      "file": "audio/7c12153ad822f879.mp3",
+      "cover": "covers/7c12153ad822f879.jpg",
+      "added_at": "2026-11-19T17:57:52.393018+00:00"
+    },
+    {
+      "id": "0d3011143bdaf2a2",
+      "title": "Tout le monde porte un masque. Certains pour plaire. D'autres pour survivre. Le plus dangereux… c'es",
+      "artist": "Mon univers musical",
+      "duration": 174,
+      "file": "audio/0d3011143bdaf2a2.mp3",
+      "cover": "covers/0d3011143bdaf2a2.jpg",
+      "added_at": "2026-11-19T17:57:31.030609+00:00"
+    },
+    {
+      "id": "2833f6e5e44763dd",
+      "title": "Parfois, ce ne sont pas les personnes qui meurent... Ce sont les promesses. Les silences. Les \"je t'",
+      "artist": "Mon univers musical",
+      "duration": 193,
+      "file": "audio/2833f6e5e44763dd.mp3",
+      "cover": "covers/2833f6e5e44763dd.jpg",
+      "added_at": "2026-11-19T17:57:17.494511+00:00"
+    },
+    {
+      "id": "d7704a9c349e8db8",
+      "title": "Certains monstres ne sont pas nés mauvais. Ils ont juste survécu à ce que personne n'a voulu voir. C",
+      "artist": "Mon univers musical",
+      "duration": 190,
+      "file": "audio/d7704a9c349e8db8.mp3",
+      "cover": "covers/d7704a9c349e8db8.jpg",
+      "added_at": "2026-11-19T17:56:55.020095+00:00"
+    },
+    {
+      "id": "0aaad331d50de010",
+      "title": "Parfois, l'emprise ne commence ni par un cri, ni par un coup. Elle peut s'installer lentement, à tra",
+      "artist": "Mon univers musical",
+      "duration": 193,
+      "file": "audio/0aaad331d50de010.mp3",
+      "cover": "covers/0aaad331d50de010.jpg",
+      "added_at": "2026-11-19T17:56:26.440565+00:00"
+    },
+    {
+      "id": "7bdfa67bfa00dcd7",
+      "title": "TikTok video",
+      "artist": "Mon univers musical",
+      "duration": 245,
+      "file": "audio/7bdfa67bfa00dcd7.mp3",
+      "cover": "covers/7bdfa67bfa00dcd7.jpg",
+      "added_at": "2026-11-19T17:56:06.407113+00:00"
+    },
+    {
+      "id": "010f5331ae06a6e1",
+      "title": "Parfois, il suffit d'une seule personne pour empêcher une autre d'abandonner. Ce monde n'a peut-être",
+      "artist": "Mon univers musical",
+      "duration": 228,
+      "file": "audio/010f5331ae06a6e1.mp3",
+      "cover": "covers/010f5331ae06a6e1.jpg",
+      "added_at": "2026-11-19T17:55:28.395290+00:00"
+    },
+    {
+      "id": "d033bb8d652669f8",
+      "title": "Cette musique n'accuse personne. Elle rappelle simplement une vérité qu'on oublie parfois le respect",
+      "artist": "Mon univers musical",
+      "duration": 171,
+      "file": "audio/d033bb8d652669f8.mp3",
+      "cover": "covers/d033bb8d652669f8.jpg",
+      "added_at": "2026-11-19T17:55:11.768597+00:00"
+    },
+    {
+      "id": "ae6168e674b29abd",
+      "title": "🇫🇷 Parfois, certains sentiments ne disparaissent jamais. Cette chanson est pour tous ceux qui aiment",
+      "artist": "Mon univers musical",
+      "duration": 129,
+      "file": "audio/ae6168e674b29abd.mp3",
+      "cover": "covers/ae6168e674b29abd.jpg",
+      "added_at": "2026-11-19T17:54:49.957952+00:00"
+    },
+    {
+      "id": "1719e2be9fe48540",
+      "title": "Fiction / Dark Romance Cette œuvre est une création artistique de fiction. Elle met en scène l'obses",
+      "artist": "Mon univers musical",
+      "duration": 197,
+      "file": "audio/1719e2be9fe48540.mp3",
+      "cover": "covers/1719e2be9fe48540.jpg",
+      "added_at": "2026-11-19T17:54:26.599426+00:00"
+    },
+    {
+      "id": "e815438bcdbefca3",
+      "title": "Ce morceau dort dans mes archives depuis mes débuts... Il n'a jamais été publié. Aujourd'hui, j'ai d",
+      "artist": "Mon univers musical",
+      "duration": 148,
+      "file": "audio/e815438bcdbefca3.mp3",
+      "cover": "covers/e815438bcdbefca3.jpg",
+      "added_at": "2026-11-19T17:53:58.161345+00:00"
+    },
+    {
+      "id": "adccdcaee021e2d0",
+      "title": "TikTok video",
+      "artist": "Mon univers musical",
+      "duration": 144,
+      "file": "audio/adccdcaee021e2d0.mp3",
+      "cover": "covers/adccdcaee021e2d0.jpg",
+      "added_at": "2026-11-19T17:53:45.232565+00:00"
+    },
+    {
+      "id": "29efd8b3e4bf8167",
+      "title": "TikTok video",
+      "artist": "Mon univers musical",
+      "duration": 215,
+      "file": "audio/29efd8b3e4bf8167.mp3",
+      "cover": "covers/29efd8b3e4bf8167.jpg",
+      "added_at": "2026-11-19T17:53:18.331806+00:00"
+    },
+    {
+      "id": "caee9c45e8462dc5",
+      "title": "⚠️ FICTION – 18+ ⚠️ Ce morceau explore l’esprit d’un personnage TOXIQUE. Obsession, perversion, poss",
+      "artist": "Mon univers musical",
+      "duration": 281,
+      "file": "audio/caee9c45e8462dc5.mp3",
+      "cover": "covers/caee9c45e8462dc5.jpg",
+      "added_at": "2026-11-19T17:53:04.762461+00:00"
+    },
+    {
+      "id": "cc9d770fa691a559",
+      "title": "TikTok video",
+      "artist": "Mon univers musical",
+      "duration": 273,
+      "file": "audio/cc9d770fa691a559.mp3",
+      "cover": "covers/cc9d770fa691a559.jpg",
+      "added_at": "2026-11-19T17:52:49.086551+00:00"
+    },
+    {
+      "id": "926cf752e9eb8824",
+      "title": "TikTok video",
+      "artist": "Mon univers musical",
+      "duration": 293,
+      "file": "audio/926cf752e9eb8824.mp3",
+      "cover": "covers/926cf752e9eb8824.jpg",
+      "added_at": "2026-11-19T17:52:20.500773+00:00"
+    },
+    {
+      "id": "21cb1fdc95a5b7e6",
+      "title": "TikTok video",
+      "artist": "Mon univers musical",
+      "duration": 280,
+      "file": "audio/21cb1fdc95a5b7e6.mp3",
+      "cover": "covers/21cb1fdc95a5b7e6.jpg",
+      "added_at": "2026-11-19T17:52:02.679416+00:00"
+    },
+    {
+      "id": "86c2fe575f7cf123",
+      "title": "TikTok video",
+      "artist": "Mon univers musical",
+      "duration": 204,
+      "file": "audio/86c2fe575f7cf123.mp3",
+      "cover": "covers/86c2fe575f7cf123.jpg",
+      "added_at": "2026-11-19T17:51:46.316492+00:00"
+    },
+    {
+      "id": "a72824843972d16b",
+      "title": "TikTok video",
+      "artist": "Mon univers musical",
+      "duration": 272,
+      "file": "audio/a72824843972d16b.mp3",
+      "cover": "covers/a72824843972d16b.jpg",
+      "added_at": "2026-11-19T17:51:28.488081+00:00"
+    },
+    {
+      "id": "3001adb5fd5e774a",
+      "title": "TikTok video",
+      "artist": "Mon univers musical",
+      "duration": 238,
+      "file": "audio/3001adb5fd5e774a.mp3",
+      "cover": "covers/3001adb5fd5e774a.jpg",
+      "added_at": "2026-11-19T17:51:03.279139+00:00"
+    },
+    {
+      "id": "ad68801e7103eb4d",
+      "title": "TikTok video",
+      "artist": "Mon univers musical",
+      "duration": 296,
+      "file": "audio/ad68801e7103eb4d.mp3",
+      "cover": "covers/ad68801e7103eb4d.jpg",
+      "added_at": "2026-11-19T17:50:42.633748+00:00"
+    },
+    {
+      "id": "f17d770bf0497a97",
+      "title": "TikTok video",
+      "artist": "Mon univers musical",
+      "duration": 286,
+      "file": "audio/f17d770bf0497a97.mp3",
+      "cover": "covers/f17d770bf0497a97.jpg",
+      "added_at": "2026-11-19T17:50:12.072953+00:00"
+    },
+    {
+      "id": "5167f35b8b45b873",
+      "title": "TikTok video",
+      "artist": "Mon univers musical",
+      "duration": 294,
+      "file": "audio/5167f35b8b45b873.mp3",
+      "cover": "covers/5167f35b8b45b873.jpg",
+      "added_at": "2026-11-19T17:49:49.826998+00:00"
+    },
+    {
+      "id": "fff04571d39a4b21",
+      "title": "TikTok video",
+      "artist": "Mon univers musical",
+      "duration": 306,
+      "file": "audio/fff04571d39a4b21.mp3",
+      "cover": "covers/fff04571d39a4b21.jpg",
+      "added_at": "2026-11-19T17:49:23.994055+00:00"
+    },
+    {
+      "id": "206c31efa7e3c623",
+      "title": "Un morceau universel, pour tous ceux qui ont quelqu’un loin… mais toujours dans leurs pensées",
+      "artist": "Mon univers musical",
+      "duration": 177,
+      "file": "audio/206c31efa7e3c623.mp3",
+      "cover": "covers/206c31efa7e3c623.jpg",
+      "added_at": "2026-11-19T17:49:05.251755+00:00"
+    },
+    {
+      "id": "e8a90ee378997d38",
+      "title": "TikTok video",
+      "artist": "Mon univers musical",
+      "duration": 397,
+      "file": "audio/e8a90ee378997d38.mp3",
+      "cover": "covers/e8a90ee378997d38.jpg",
+      "added_at": "2026-11-19T17:48:44.374396+00:00"
+    },
+    {
+      "id": "5230d6f1f172bda1",
+      "title": "TikTok video",
+      "artist": "Mon univers musical",
+      "duration": 325,
+      "file": "audio/5230d6f1f172bda1.mp3",
+      "cover": "covers/5230d6f1f172bda1.jpg",
+      "added_at": "2026-11-19T17:48:11.364003+00:00"
+    },
+    {
+      "id": "f7a52845fe564817",
+      "title": "Je vous laisse écouter jusqu’à la fin. Si vous comprenez le piège avant la dernière phrase, vous ave",
+      "artist": "Mon univers musical",
+      "duration": 276,
+      "file": "audio/f7a52845fe564817.mp3",
+      "cover": "covers/f7a52845fe564817.jpg",
+      "added_at": "2026-11-19T17:47:54.146726+00:00"
+    },
+    {
+      "id": "641b795940fd6d63",
+      "title": "Ce morceau est avant tout fait pour toutes les femmes qui peuvent se reconnaître à travers elle, dan",
+      "artist": "Mon univers musical",
+      "duration": 193,
+      "file": "audio/641b795940fd6d63.mp3",
+      "cover": "covers/641b795940fd6d63.jpg",
+      "added_at": "2026-11-19T17:47:23.127301+00:00"
+    },
+    {
+      "id": "7be0a6b511ae57c6",
+      "title": "TikTok video",
+      "artist": "Mon univers musical",
+      "duration": 327,
+      "file": "audio/7be0a6b511ae57c6.mp3",
+      "cover": "covers/7be0a6b511ae57c6.jpg",
+      "added_at": "2026-11-19T17:47:09.536839+00:00"
+    },
+    {
+      "id": "0bd9442b57a0c3f3",
+      "title": "On ne choisit pas toujours ce qu’on reçoit dans la vie. Mais on choisit ce qu’on en fait. On peut tr",
+      "artist": "Mon univers musical",
+      "duration": 273,
+      "file": "audio/0bd9442b57a0c3f3.mp3",
+      "cover": "covers/0bd9442b57a0c3f3.jpg",
+      "added_at": "2026-11-19T17:46:51.947635+00:00"
+    },
+    {
+      "id": "4db8e3f1fc23ca4f",
+      "title": "TikTok video",
+      "artist": "Mon univers musical",
+      "duration": 282,
+      "file": "audio/4db8e3f1fc23ca4f.mp3",
+      "cover": "covers/4db8e3f1fc23ca4f.jpg",
+      "added_at": "2026-11-19T17:46:29.389932+00:00"
+    },
+    {
+      "id": "4fbac4062c2b8ea5",
+      "title": "TikTok video",
+      "artist": "Mon univers musical",
+      "duration": 347,
+      "file": "audio/4fbac4062c2b8ea5.mp3",
+      "cover": "covers/4fbac4062c2b8ea5.jpg",
+      "added_at": "2026-11-19T17:46:06.257817+00:00"
+    },
+    {
+      "id": "3818d7a72f80da1c",
+      "title": "TikTok video",
+      "artist": "Mon univers musical",
+      "duration": 314,
+      "file": "audio/3818d7a72f80da1c.mp3",
+      "cover": "covers/3818d7a72f80da1c.jpg",
+      "added_at": "2026-11-19T17:45:48.522373+00:00"
+    },
+    {
+      "id": "59e89f748047736c",
+      "title": "TikTok video",
+      "artist": "Mon univers musical",
+      "duration": 277,
+      "file": "audio/59e89f748047736c.mp3",
+      "cover": "covers/59e89f748047736c.jpg",
+      "added_at": "2026-11-19T17:45:30.881189+00:00"
+    },
+    {
+      "id": "bdaf2e9cf0c80a73",
+      "title": "TikTok video",
+      "artist": "Mon univers musical",
+      "duration": 278,
+      "file": "audio/bdaf2e9cf0c80a73.mp3",
+      "cover": "covers/bdaf2e9cf0c80a73.jpg",
+      "added_at": "2026-11-19T17:45:12.956715+00:00"
+    },
+    {
+      "id": "773b5731889be27f",
+      "title": "TikTok video",
+      "artist": "Mon univers musical",
+      "duration": 293,
+      "file": "audio/773b5731889be27f.mp3",
+      "cover": "covers/773b5731889be27f.jpg",
+      "added_at": "2026-11-19T17:44:57.111481+00:00"
+    },
+    {
+      "id": "4edd90d2340e2240",
+      "title": "un homme réalise que les violences qu’il a infligées à une femme ne se sont pas arrêtées lorsqu’il e",
+      "artist": "Mon univers musical",
+      "duration": 335,
+      "file": "audio/4edd90d2340e2240.mp3",
+      "cover": "covers/4edd90d2340e2240.jpg",
+      "added_at": "2026-11-19T17:44:42.696265+00:00"
+    },
+    {
+      "id": "1245f9334f59597e",
+      "title": "TikTok video",
+      "artist": "Mon univers musical",
+      "duration": 210,
+      "file": "audio/1245f9334f59597e.mp3",
+      "cover": "covers/1245f9334f59597e.jpg",
+      "added_at": "2026-11-19T17:44:24.457608+00:00"
+    },
+    {
+      "id": "40a64ea6cdbb4f44",
+      "title": "Rien ne révèle mieux le manque d’intelligence que l’acharnement à vouloir prouver qu’on en possède",
+      "artist": "Mon univers musical",
+      "duration": 193,
+      "file": "audio/40a64ea6cdbb4f44.mp3",
+      "cover": "covers/40a64ea6cdbb4f44.jpg",
+      "added_at": "2026-11-19T17:44:10.602135+00:00"
+    },
+    {
+      "id": "f52b3cee196a3cbd",
+      "title": "TikTok video",
+      "artist": "Mon univers musical",
+      "duration": 242,
+      "file": "audio/f52b3cee196a3cbd.mp3",
+      "cover": "covers/f52b3cee196a3cbd.jpg",
+      "added_at": "2026-11-19T17:43:49.197191+00:00"
+    },
+    {
+      "id": "41cf0b531904ecff",
+      "title": "TikTok video",
+      "artist": "Mon univers musical",
+      "duration": 253,
+      "file": "audio/41cf0b531904ecff.mp3",
+      "cover": "covers/41cf0b531904ecff.jpg",
+      "added_at": "2026-11-19T17:43:34.105937+00:00"
+    },
+    {
+      "id": "7e5d4511de200acf",
+      "title": "TikTok video",
+      "artist": "Mon univers musical",
+      "duration": 211,
+      "file": "audio/7e5d4511de200acf.mp3",
+      "cover": "covers/7e5d4511de200acf.jpg",
+      "added_at": "2026-11-19T17:43:16.162137+00:00"
+    },
+    {
+      "id": "17cf6eea9a0a3af3",
+      "title": "TikTok video",
+      "artist": "Mon univers musical",
+      "duration": 273,
+      "file": "audio/17cf6eea9a0a3af3.mp3",
+      "cover": "covers/17cf6eea9a0a3af3.jpg",
+      "added_at": "2026-11-19T17:42:43.157818+00:00"
+    },
+    {
+      "id": "5184ad66386a0fb2",
+      "title": "TikTok video",
+      "artist": "Mon univers musical",
+      "duration": 237,
+      "file": "audio/5184ad66386a0fb2.mp3",
+      "cover": "covers/5184ad66386a0fb2.jpg",
+      "added_at": "2026-11-19T17:42:24.138795+00:00"
+    },
+    {
+      "id": "7e44bf204f689fad",
+      "title": "On porte parfois quelqu’un en soi sans même s’en rendre compte, Cette chanson, c’est pour cette part",
+      "artist": "Mon univers musical",
+      "duration": 310,
+      "file": "audio/7e44bf204f689fad.mp3",
+      "cover": "covers/7e44bf204f689fad.jpg",
+      "added_at": "2026-11-19T17:42:02.550956+00:00"
+    },
+    {
+      "id": "94246ceea111e559",
+      "title": "TikTok video",
+      "artist": "Mon univers musical",
+      "duration": 193,
+      "file": "audio/94246ceea111e559.mp3",
+      "cover": "covers/94246ceea111e559.jpg",
+      "added_at": "2026-11-19T17:41:46.133298+00:00"
+    },
+    {
+      "id": "300930489a699263",
+      "title": "TikTok video",
+      "artist": "Mon univers musical",
+      "duration": 205,
+      "file": "audio/300930489a699263.mp3",
+      "cover": "covers/300930489a699263.jpg",
+      "added_at": "2026-11-19T17:41:31.061315+00:00"
+    },
+    {
+      "id": "9257afc7123052fb",
+      "title": "À partir d’aujourd’hui, je vais rester sur ce que j’aime vraiment. RAP - REGGAE - RAGGA - DANCEHALL",
+      "artist": "Mon univers musical",
+      "duration": 192,
+      "file": "audio/9257afc7123052fb.mp3",
+      "cover": "covers/9257afc7123052fb.jpg",
+      "added_at": "2026-11-19T17:41:08.758722+00:00"
+    },
+    {
+      "id": "9656953351b6e812",
+      "title": "TikTok video",
+      "artist": "Mon univers musical",
+      "duration": 198,
+      "file": "audio/9656953351b6e812.mp3",
+      "cover": "covers/9656953351b6e812.jpg",
+      "added_at": "2026-11-19T17:40:55.833192+00:00"
+    },
+    {
+      "id": "89afd162ab718dc4",
+      "title": "TikTok video",
+      "artist": "Mon univers musical",
+      "duration": 187,
+      "file": "audio/89afd162ab718dc4.mp3",
+      "cover": "covers/89afd162ab718dc4.jpg",
+      "added_at": "2026-11-19T17:40:05.644074+00:00"
+    },
+    {
+      "id": "5f7c6038f9f1c2c8",
+      "title": "TikTok video",
+      "artist": "Mon univers musical",
+      "duration": 281,
+      "file": "audio/5f7c6038f9f1c2c8.mp3",
+      "cover": "covers/5f7c6038f9f1c2c8.jpg",
+      "added_at": "2026-11-19T17:39:44.652968+00:00"
+    },
+    {
+      "id": "ec396177d75a3049",
+      "title": "TikTok video",
+      "artist": "Mon univers musical",
+      "duration": 214,
+      "file": "audio/ec396177d75a3049.mp3",
+      "cover": "covers/ec396177d75a3049.jpg",
+      "added_at": "2026-11-19T17:39:16.401009+00:00"
+    },
+    {
+      "id": "f493fb66048cb662",
+      "title": "TikTok video",
+      "artist": "Mon univers musical",
+      "duration": 246,
+      "file": "audio/f493fb66048cb662.mp3",
+      "cover": "covers/f493fb66048cb662.jpg",
+      "added_at": "2026-11-19T17:38:55.213614+00:00"
+    },
+    {
+      "id": "a14ec258fd8f1eb7",
+      "title": "TikTok video",
+      "artist": "Mon univers musical",
+      "duration": 208,
+      "file": "audio/a14ec258fd8f1eb7.mp3",
+      "cover": "covers/a14ec258fd8f1eb7.jpg",
+      "added_at": "2026-11-19T17:38:40.527475+00:00"
+    },
+    {
+      "id": "cc7d7499ba416001",
+      "title": "Ceci est un jeu entre LGN et moi. Aucune animosité, aucun règlement de comptes. Juste deux créateurs",
+      "artist": "Mon univers musical",
+      "duration": 263,
+      "file": "audio/cc7d7499ba416001.mp3",
+      "cover": "covers/cc7d7499ba416001.jpg",
+      "added_at": "2026-11-19T17:38:27.270710+00:00"
+    },
+    {
+      "id": "b4f3af06739096da",
+      "title": "TikTok video",
+      "artist": "Mon univers musical",
+      "duration": 228,
+      "file": "audio/b4f3af06739096da.mp3",
+      "cover": "covers/b4f3af06739096da.jpg",
+      "added_at": "2026-11-19T17:38:13.103217+00:00"
+    },
+    {
+      "id": "b6747eb35ad5dcd4",
+      "title": "TikTok video",
+      "artist": "Mon univers musical",
+      "duration": 291,
+      "file": "audio/b6747eb35ad5dcd4.mp3",
+      "cover": "covers/b6747eb35ad5dcd4.jpg",
+      "added_at": "2026-11-19T17:37:58.994422+00:00"
+    },
+    {
+      "id": "1970b5b1432e262c",
+      "title": "TikTok video",
+      "artist": "Mon univers musical",
+      "duration": 277,
+      "file": "audio/1970b5b1432e262c.mp3",
+      "cover": "covers/1970b5b1432e262c.jpg",
+      "added_at": "2026-11-19T17:37:42.875125+00:00"
+    },
+    {
+      "id": "d10d4a474afb2789",
+      "title": "TikTok video",
+      "artist": "Mon univers musical",
+      "duration": 279,
+      "file": "audio/d10d4a474afb2789.mp3",
+      "cover": "covers/d10d4a474afb2789.jpg",
+      "added_at": "2026-11-19T17:37:27.072997+00:00"
+    },
+    {
+      "id": "e1fb9e148887a7ae",
+      "title": "TikTok video",
+      "artist": "Mon univers musical",
+      "duration": 304,
+      "file": "audio/e1fb9e148887a7ae.mp3",
+      "cover": "covers/e1fb9e148887a7ae.jpg",
+      "added_at": "2026-11-19T17:36:55.315331+00:00"
+    },
+    {
+      "id": "bdde4018c88086e4",
+      "title": "TikTok video",
+      "artist": "Mon univers musical",
+      "duration": 231,
+      "file": "audio/bdde4018c88086e4.mp3",
+      "cover": "covers/bdde4018c88086e4.jpg",
+      "added_at": "2026-11-19T17:36:39.653178+00:00"
+    },
+    {
+      "id": "828ded4f8c907137",
+      "title": "TikTok video",
+      "artist": "Mon univers musical",
+      "duration": 237,
+      "file": "audio/828ded4f8c907137.mp3",
+      "cover": "covers/828ded4f8c907137.jpg",
+      "added_at": "2026-11-19T17:36:26.208319+00:00"
+    },
+    {
+      "id": "111fbbb356097e4c",
+      "title": "TikTok video",
+      "artist": "Mon univers musical",
+      "duration": 233,
+      "file": "audio/111fbbb356097e4c.mp3",
+      "cover": "covers/111fbbb356097e4c.jpg",
+      "added_at": "2026-11-19T17:36:10.862332+00:00"
+    },
+    {
+      "id": "c19ea6044691d0a2",
+      "title": "TikTok video",
+      "artist": "Mon univers musical",
+      "duration": 215,
+      "file": "audio/c19ea6044691d0a2.mp3",
+      "cover": "covers/c19ea6044691d0a2.jpg",
+      "added_at": "2026-11-19T17:35:50.442069+00:00"
+    },
+    {
+      "id": "567a2fbb9550f1d2",
+      "title": "TikTok video",
+      "artist": "Mon univers musical",
+      "duration": 247,
+      "file": "audio/567a2fbb9550f1d2.mp3",
+      "cover": "covers/567a2fbb9550f1d2.jpg",
+      "added_at": "2026-11-19T17:35:34.504995+00:00"
+    },
+    {
+      "id": "a702105b2a23c04d",
+      "title": "TikTok video",
+      "artist": "Mon univers musical",
+      "duration": 222,
+      "file": "audio/a702105b2a23c04d.mp3",
+      "cover": "covers/a702105b2a23c04d.jpg",
+      "added_at": "2026-11-19T17:35:18.929298+00:00"
+    },
+    {
+      "id": "ab19ecc30d70f0c5",
+      "title": "TikTok video",
+      "artist": "Mon univers musical",
+      "duration": 200,
+      "file": "audio/ab19ecc30d70f0c5.mp3",
+      "cover": "covers/ab19ecc30d70f0c5.jpg",
+      "added_at": "2026-11-19T17:35:05.519494+00:00"
+    },
+    {
+      "id": "8b6ab5d03977fd7c",
+      "title": "TikTok video",
+      "artist": "Mon univers musical",
+      "duration": 132,
+      "file": "audio/8b6ab5d03977fd7c.mp3",
+      "cover": "covers/8b6ab5d03977fd7c.jpg",
+      "added_at": "2026-11-19T17:34:43.686669+00:00"
+    },
+    {
+      "id": "4e0a10a7a6f3e89b",
+      "title": "TikTok video",
+      "artist": "Mon univers musical",
+      "duration": 245,
+      "file": "audio/4e0a10a7a6f3e89b.mp3",
+      "cover": "covers/4e0a10a7a6f3e89b.jpg",
+      "added_at": "2026-11-19T17:34:32.234802+00:00"
+    },
+    {
+      "id": "d6c2727146f28e01",
+      "title": "TikTok video",
+      "artist": "Mon univers musical",
+      "duration": 196,
+      "file": "audio/d6c2727146f28e01.mp3",
+      "cover": "covers/d6c2727146f28e01.jpg",
+      "added_at": "2026-11-19T17:34:16.524247+00:00"
+    },
+    {
+      "id": "59512b2556e2e27a",
+      "title": "TikTok video",
+      "artist": "Mon univers musical",
+      "duration": 162,
+      "file": "audio/59512b2556e2e27a.mp3",
+      "cover": "covers/59512b2556e2e27a.jpg",
+      "added_at": "2026-11-19T17:33:39.911870+00:00"
+    },
+    {
+      "id": "d1a5c6cdaf68a1bf",
+      "title": "TikTok video",
+      "artist": "Mon univers musical",
+      "duration": 202,
+      "file": "audio/d1a5c6cdaf68a1bf.mp3",
+      "cover": "covers/d1a5c6cdaf68a1bf.jpg",
+      "added_at": "2026-11-19T17:33:26.332410+00:00"
+    },
+    {
+      "id": "d57e6a96df392c3f",
+      "title": "TikTok video",
+      "artist": "Mon univers musical",
+      "duration": 193,
+      "file": "audio/d57e6a96df392c3f.mp3",
+      "cover": "covers/d57e6a96df392c3f.jpg",
+      "added_at": "2026-11-19T17:32:58.785336+00:00"
+    },
+    {
+      "id": "c393381d9dedcdf8",
+      "title": "TikTok video",
+      "artist": "Mon univers musical",
+      "duration": 167,
+      "file": "audio/c393381d9dedcdf8.mp3",
+      "cover": "covers/c393381d9dedcdf8.jpg",
+      "added_at": "2026-11-19T17:32:37.358908+00:00"
+    },
+    {
+      "id": "3ca33154afb73650",
+      "title": "TikTok video",
+      "artist": "Mon univers musical",
+      "duration": 237,
+      "file": "audio/3ca33154afb73650.mp3",
+      "cover": "covers/3ca33154afb73650.jpg",
+      "added_at": "2026-11-19T17:28:19.756527+00:00"
+    },
+    {
+      "id": "0f5ebf3f500238c3",
+      "title": "TikTok video",
+      "artist": "Mon univers musical",
+      "duration": 247,
+      "file": "audio/0f5ebf3f500238c3.mp3",
+      "cover": "covers/0f5ebf3f500238c3.jpg",
+      "added_at": "2026-11-19T17:27:58.850298+00:00"
+    },
+    {
+      "id": "b36cd2ed6aad55be",
+      "title": "TikTok video",
+      "artist": "Mon univers musical",
+      "duration": 237,
+      "file": "audio/b36cd2ed6aad55be.mp3",
+      "cover": "covers/b36cd2ed6aad55be.jpg",
+      "added_at": "2026-11-19T17:27:45.283561+00:00"
+    }
+  ]
+}
